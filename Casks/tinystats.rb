@@ -1,6 +1,6 @@
 cask "tinystats" do
-  version "0.1.5"
-  sha256 "9a352562bc23c2e8c18bb864e1525e8888d0fc30a40ac19027bd52a0dd5f3071"
+  version "0.1.6"
+  sha256 "92e7d3b34b48ae5436c813004d950b7ba3b7881dbabaf4b7314b2e37179d3282"
 
   url "https://github.com/cringe-tech/tiny-stats/releases/download/v#{version}/TinyStats.dmg"
   name "TinyStats"
